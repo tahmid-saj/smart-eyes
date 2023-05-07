@@ -1,7 +1,9 @@
 import React from 'react';
 import { Tilt } from 'react-tilt';
 import './Logo.css';
-import eyes from './eyes-icon.png';
+
+
+const eyes = "https://img.icons8.com/neon/96/null/visible.png";
 
 const Logo = () => {
     return (
