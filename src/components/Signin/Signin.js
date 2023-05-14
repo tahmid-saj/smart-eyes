@@ -75,7 +75,6 @@ class Signin extends React.Component {
             </article>
         );
     }
-
 }
 
 export default Signin;
